@@ -72,3 +72,27 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=gurtaransingh01&show_icons=true&theme=onedark&locale=en" alt="gurtaransingh01" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=gurtaransingh01&theme=dark" alt="gurtaransingh01" /></p>
+
+
+<br>
+<h2>Skills</h2>
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,vscode,c,firebase,cpp,gcp" />
+  </a>
+</p>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=python,mysql,java,github" />
+  </a>
+</p>
+
+<details close="true">
+  <summary><b>:gear: &nbsp;Git statistics</b></summary>
+  <img height="150px" src="https://github-readme-stats.vercel.app/api?username=hardiktreats&show_icons=true&theme=highcontrast" />
+  <img height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hardiktreats&hide=html&layout=compact&theme=highcontrast" />
+ 
+ ![](./profile-3d-contrib/profile-gitblock.svg)
+ 
+ </details>
