@@ -4,31 +4,31 @@
 <a href="https://ibb.co/CJg9Sqd"><img src="https://i.ibb.co/JxVpSNL/240-F-502133071-NSrx-OU4r-Id-S34n0-On0-GDOIJVm-Jnwne-Kt.jpg" alt="240-F-502133071-NSrx-OU4r-Id-S34n0-On0-GDOIJVm-Jnwne-Kt" width="150%" height="10%"  border="0"></a>
     
     
-    <img src="https://blush.design/api/download?shareUri=C3rahHPESaD8JSw9&c=Skin_0%7Eedb98a&w=800&h=800&fm=png" width="10%" height="10%" alt="gurtaransingh01" />
-    <img src="https://blush.design/api/download?shareUri=DFwJpfdEwJCHeIr2&c=Skin_0%7Eedb98a&w=800&h=800&fm=png" width="10%" height="10%" alt="gurtaransingh01" />
-    <img src="https://blush.design/api/download?shareUri=C3rahHPESaD8JSw9&c=Skin_0%7Eedb98a&w=800&h=800&fm=png" width="10%" height="10%" alt="gurtaransingh01" />
+    <img src="https://blush.design/api/download?shareUri=C3rahHPESaD8JSw9&c=Skin_0%7Eedb98a&w=800&h=800&fm=png" width="10%" height="10%" alt="gurtaransingh" />
+    <img src="https://blush.design/api/download?shareUri=DFwJpfdEwJCHeIr2&c=Skin_0%7Eedb98a&w=800&h=800&fm=png" width="10%" height="10%" alt="gurtaransingh" />
+    <img src="https://blush.design/api/download?shareUri=C3rahHPESaD8JSw9&c=Skin_0%7Eedb98a&w=800&h=800&fm=png" width="10%" height="10%" alt="gurtaransingh" />
     
     
     
     https://blush.design/api/download?shareUri=C3rahHPESaD8JSw9&c=Skin_0%7Eedb98a&w=800&h=800&fm=png
  <p align="center"> 
-    <img src="https://img.freepik.com/premium-vector/software-developer-character-programmer-develops-code-illustration_80590-7310.jpg?w=1060" alt="gurtaransingh01" />   
+    <img src="https://img.freepik.com/premium-vector/software-developer-character-programmer-develops-code-illustration_80590-7310.jpg?w=1060" alt="gurtaransingh" />   
      -->
     
     
     
 </p>
-<h1 align="center"><img src="https://blush.design/api/download?shareUri=Nd5cfo9FMtAS8oL0&c=Skin_0%7Eedb98a&w=800&h=800&fm=png" width="4%" height="4%" alt="gurtaransingh01" />  Hello!!    I'm Gurtaran Singh  <img src="https://blush.design/api/download?shareUri=Nd5cfo9FMtAS8oL0&c=Skin_0%7Eedb98a&w=800&h=800&fm=png" width="4%" height="4%" alt="gurtaransingh01" />
+<h1 align="center"><img src="https://blush.design/api/download?shareUri=Nd5cfo9FMtAS8oL0&c=Skin_0%7Eedb98a&w=800&h=800&fm=png" width="4%" height="4%" alt="gurtaransingh" />  Hello!!    I'm Gurtaran Singh  <img src="https://blush.design/api/download?shareUri=Nd5cfo9FMtAS8oL0&c=Skin_0%7Eedb98a&w=800&h=800&fm=png" width="4%" height="4%" alt="gurtaransingh" />
 <p>
     </p></h1>
 <h3 align="center">COE TIET'24 || Founder - Gaming Geeks || Data Analyst & Technical Advisor - Anaitik || Frontend Developer - Code8 & ACC || xSecretariat-Thapar MUN Society || NCC Cadet and Grade-A achiever</h3>
 
 
-<!-- <p align="center"> <img src="https://blush.design/api/download?shareUri=Nd5cfo9FMtAS8oL0&c=Skin_0%7Eedb98a&w=800&h=800&fm=png" width="10%" height="10%" alt="gurtaransingh01" /> 
+<!-- <p align="center"> <img src="https://blush.design/api/download?shareUri=Nd5cfo9FMtAS8oL0&c=Skin_0%7Eedb98a&w=800&h=800&fm=png" width="10%" height="10%" alt="gurtaransingh" /> 
     </p> -->
 
   
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=gurtaransingh01&label=Profile%20views&color=ff4013&style=plastic" alt="gurtaransingh01" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=gurtaransingh&label=Profile%20views&color=ff4013&style=plastic" alt="gurtaransingh" /> </p>
 
 
 
@@ -67,11 +67,11 @@
   
 <!-- <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="https://drive.google.com/file/d/1CVR0mA0k_fg7qd3ciWKj-075qLeihVEN/view?usp=sharing" /></a></p> -->
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=gurtaransingh01&show_icons=true&theme=onedark&locale=en&layout=compact" alt="gurtaransingh01" /></p><br>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=gurtaransingh&show_icons=true&theme=onedark&locale=en&layout=compact" alt="gurtaransingh" /></p><br>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=gurtaransingh01&show_icons=true&theme=onedark&locale=en" alt="gurtaransingh01" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=gurtaransingh&show_icons=true&theme=onedark&locale=en" alt="gurtaransingh" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=gurtaransingh01&theme=dark" alt="gurtaransingh01" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=gurtaransingh&theme=dark" alt="gurtaransingh" /></p>
 
 
 <br>
